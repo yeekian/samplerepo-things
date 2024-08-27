@@ -1,10 +1,2 @@
-blue
 red
 white
-pink
-purple
-orange
-green
-blue
-indigo
-violet
